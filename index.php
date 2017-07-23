@@ -34,5 +34,7 @@
         </div>
         
         <p>Acabo de apagar um texto indesejável</p>
+        <h3>DIFERENCIEI!!!</h3>
+        <h2>DIFERENCIEI!!!</h2>
     </body>
 </html>
