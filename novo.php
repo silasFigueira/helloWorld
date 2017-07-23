@@ -12,6 +12,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <h1>Silas</h1>
+        <h1 class="silas">Silas</h1>
     </body>
 </html>
