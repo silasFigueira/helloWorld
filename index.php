@@ -13,5 +13,19 @@ and open the template in the editor.
         <?php
         echo "Hello World!";
         ?>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Número</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td></td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
     </body>
 </html>
