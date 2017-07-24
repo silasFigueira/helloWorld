@@ -6,6 +6,7 @@
         <title></title>
     </head>
     <body>
+
             <h1>Sou outra alteração!</h1>
         
 <h1>Mais uma lorem ispum</h1>
@@ -16,6 +17,7 @@
 
         </div>
     <table>
+
             <thead>
                 <tr>
                     <th>Nome</th>
